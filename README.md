@@ -1,0 +1,1 @@
+In summary, this code sets up an image slider with automatic sliding every 3 seconds and allows users to navigate between slides using left and right buttons .The sliders are selected by their class slide and the current slide is tracked using the  currentslide variable. The sliding function handles the logic of changing slides.
